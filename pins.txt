@@ -1,0 +1,8 @@
+pin 3 = swtgnd1
+pin 1 = swtgnd2
+pin 8 = swtgnd3
+pin 6 = swtgnd4
+pin 27 = swt 1
+pin 26 = swt 2
+pin 25 = swt 3
+pin 24 = swt 4
